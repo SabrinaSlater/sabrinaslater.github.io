@@ -490,7 +490,7 @@ nav {
     font-weight: 300;
     font-family: 'Montserrant', sans-serif;
     padding-top: 65px;
-    margin: 0px 80px;
+    margin: 0px 40px;
 }
 .about {
     text-decoration: none;
@@ -499,7 +499,7 @@ nav {
     font-weight: 300;
     font-family: 'Montserrant', sans-serif;
     padding-top: 65px;
-    margin: 0px 80px;
+    margin: 0px 100px 0px 40px;
 }
 .portfolio {
     text-decoration: none;
@@ -508,7 +508,7 @@ nav {
     font-weight: 300;
     font-family: 'Montserrant', sans-serif;
     padding-top: 65px;
-    margin: 0px 80px;
+    margin: 0px 40px 0px 100px;
 }
 .contacts {
     text-decoration: none;
@@ -517,7 +517,7 @@ nav {
     font-weight: 300;
     font-family: 'Montserrant', sans-serif;
     padding-top: 65px;
-    margin: 0px 80px;
+    margin: 0px 40px;
 }
   
 #logo {
