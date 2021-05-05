@@ -1,6 +1,14 @@
 /* Normal desktop :992px. LG Device */
 @media (min-width: 992px) and (max-width: 1200px) {
 
+nav {
+    display: flex;
+    background: #e9e1d9;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin: 0px auto;
+}
 .mainmenu ul li {
     margin: 18px -1px;
 }
@@ -68,6 +76,58 @@
 /* small mobile layout :320px. */
 @media only screen and (max-width: 767px) {
 
+    nav {
+        display: flex;
+        background: #e9e1d9;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        margin: 0px auto;
+        width: 450px;
+    }
+    .home {
+        text-decoration: none;
+        color: #25201c;
+        font-size: 14px;
+        font-weight: 300;
+        font-family: 'Montserrant', sans-serif;
+        padding-top: 65px;
+        margin: 0px 15px;
+    }
+    .about {
+        text-decoration: none;
+        color: #25201c;
+        font-size: 14px;
+        font-weight: 300;
+        font-family: 'Montserrant', sans-serif;
+        padding-top: 65px;
+        margin: 0px 40px 0px 15px;
+    }
+    .portfolio {
+        text-decoration: none;
+        color: #25201c;
+        font-size: 14px;
+        font-weight: 300;
+        font-family: 'Montserrant', sans-serif;
+        padding-top: 65px;
+        margin: 0px 15px 0px 40px;
+    }
+    .contacts {
+        text-decoration: none;
+        color: #25201c;
+        font-size: 14px;
+        font-weight: 300;
+        font-family: 'Montserrant', sans-serif;
+        padding-top: 65px;
+        margin: 0px 15px;
+    }
+      
+    #logo {
+        width: 50px;
+        height: 50px;
+        background: rgba(0,0,0,0.3);
+        position: center;
+    }
 .slicknav_menu{
 	display:block;
 }	
@@ -184,6 +244,58 @@ div.slicknav_menu {
 /* Large Mobile layout:550px. */
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
+nav {
+    display: flex;
+    background: #e9e1d9;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin: 0px auto;
+}    
+.home {
+    text-decoration: none;
+    color: #25201c;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Montserrant', sans-serif;
+    padding-top: 65px;
+    margin: 0px 40px;
+}
+.about {
+    text-decoration: none;
+    color: #25201c;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Montserrant', sans-serif;
+    padding-top: 65px;
+    margin: 0px 100px 0px 40px;
+}
+.portfolio {
+    text-decoration: none;
+    color: #25201c;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Montserrant', sans-serif;
+    padding-top: 65px;
+    margin: 0px 40px 0px 100px;
+}
+.contacts {
+    text-decoration: none;
+    color: #25201c;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Montserrant', sans-serif;
+    padding-top: 65px;
+    margin: 0px 40px;
+}
+  
+#logo {
+    width: 200px;
+    height: 100%;
+    background: rgba(0,0,0,0.3);
+    position: center;
+    margin: 0px 80px;
+}
 .slicknav_menu{
 	display:block;
 }		
