@@ -286,7 +286,11 @@ a:focus,
 	outline: none;
 	list-style:none
 }
-a:focus,
+a:focus {
+    color: #f4f2f0;
+    text-decoration: none;
+}
+
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
@@ -533,10 +537,10 @@ nav {
     margin-right: 20px;
     line-height: auto !important;
 }
-.mainmenu ul li a:hover {
+.mainmenu a:hover {
     color: #dccdbc;
 }
-.mainmenu li.active a {
+.mainmenu a.active a {
 	color:#f4f2f0;
 }
 #pp-nav li .active span, .pp-slidesNav .active span {
@@ -1132,9 +1136,6 @@ nav {
 }
 .mb-30 {
     margin-bottom: 30px;
-}
-.custom {
-    margin: 0px 35px 0px 45px;
 }
 .protfolio-wrapper {
 	position: relative;
