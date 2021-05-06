@@ -1340,58 +1340,64 @@ nav {
 	border-radius:50%;
 }
 .social-icon a.bg-blue{
-	background:#0921c5;
+	background:#c98f76;
     color:#f4f2f0;
-	border:1px solid #0921c5;
+	border:1px solid #c98f76;
 }
 .social-icon a.bg-blue:hover{
 	background:#f4f2f0;
-	color:#0921c5;
+    color:#0921c5;
+    border:1px solid #0921c5;
 }
 .social-icon a.bg-gray{
-	background:#1DA1F3;
+	background:#c98f76;
 	color:#f4f2f0;
-	border:1px solid #1DA1F3;
+	border:1px solid #c98f76;
 }
 .social-icon a.bg-gray:hover{
 	background:#f4f2f0;
-	color:#1DA1F3;
+    color:#1DA1F3;
+    border:1px solid #1DA1F3;
 }
 .social-icon a.bg-red{
-	background:#e42525;
+	background:#c98f76;
 	color:#f4f2f0;
-	border:1px solid #e42525;
+	border:1px solid #c98f76;
 }
 .social-icon a.bg-red:hover{
 	background:#f4f2f0;
-	color:#e42525;
+    color:#e42525;
+    border:1px solid #e42525;
 }
 .social-icon a.bg-orange{
-	background:#BE31A1;
+	background:#c98f76;
 	color:#f4f2f0;
-	border:1px solid #BE31A1;
+	border:1px solid #c98f76;
 }
 .social-icon a.bg-orange:hover{
 	background:#f4f2f0;
-	color: #BE31A1;
+    color: #BE31A1;
+    border:1px solid #BE31A1;
 }
 .social-icon a.bg-red2{
-	background:#bd081c;
+	background:#c98f76;
 	color:#f4f2f0;
-	border:1px solid #bd081c;
+	border:1px solid #c98f76;
 }
 .social-icon a.bg-red2:hover{
 	background:#f4f2f0;
-	color:#bd081c;
+    color:#bd081c;
+    border:1px solid #bd081c;
 }
 .social-icon a.bg-green{
-	background:#E74D89;
+	background:#c98f76;
 	color:#f4f2f0;
-	border:1px solid #E74D89;
+	border:1px solid #c98f76;
 }
 .social-icon a.bg-green:hover{
 	background:#f4f2f0;
-	color:#E74D89;
+    color:#E74D89;
+    border:1px solid #E74D89;
 }
 /**********************************
 	copyright-section
