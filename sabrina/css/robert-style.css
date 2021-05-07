@@ -1346,8 +1346,8 @@ nav {
 }
 .social-icon a.bg-blue:hover{
 	background:#f4f2f0;
-    color:#0921c5;
-    border:1px solid #0921c5;
+    color:#4267b2;
+    border:1px solid #4267b2;
 }
 .social-icon a.bg-gray{
 	background:#c98f76;
@@ -1356,8 +1356,8 @@ nav {
 }
 .social-icon a.bg-gray:hover{
 	background:#f4f2f0;
-    color:#1DA1F3;
-    border:1px solid #1DA1F3;
+    color:#1DA1F2;
+    border:1px solid #1DA1F2;
 }
 .social-icon a.bg-red{
 	background:#c98f76;
@@ -1366,8 +1366,8 @@ nav {
 }
 .social-icon a.bg-red:hover{
 	background:#f4f2f0;
-    color:#e42525;
-    border:1px solid #e42525;
+    color:#db4437;
+    border:1px solid #db4437;
 }
 .social-icon a.bg-orange{
 	background:#c98f76;
@@ -1375,9 +1375,9 @@ nav {
 	border:1px solid #c98f76;
 }
 .social-icon a.bg-orange:hover{
-	background:#f4f2f0;
-    color: #BE31A1;
-    border:1px solid #BE31A1;
+	background: #f4f2f0;
+    color: #833ab4;
+    border: 1px solid #833ab4;
 }
 .social-icon a.bg-red2{
 	background:#c98f76;
@@ -1386,8 +1386,8 @@ nav {
 }
 .social-icon a.bg-red2:hover{
 	background:#f4f2f0;
-    color:#bd081c;
-    border:1px solid #bd081c;
+    color:#e60023;
+    border:1px solid #e60023;
 }
 .social-icon a.bg-green{
 	background:#c98f76;
@@ -1396,8 +1396,8 @@ nav {
 }
 .social-icon a.bg-green:hover{
 	background:#f4f2f0;
-    color:#E74D89;
-    border:1px solid #E74D89;
+    color:#2867b2;
+    border:1px solid #2867b2;
 }
 /**********************************
 	copyright-section
