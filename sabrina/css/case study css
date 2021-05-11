@@ -203,7 +203,13 @@ body {
     color:var(--h4Color)
 }
 
-.ufo--case-study-section .medium-editor-element,.ufo--case-study-section .p,.ufo--case-study-section .p1,.ufo--case-study-section .text-container,.ufo--case-study-section ol,.ufo--case-study-section p,.ufo--case-study-section ul {
+.ufo--case-study-section .medium-editor-element,
+.ufo--case-study-section .p,
+.ufo--case-study-section .p1,
+.ufo--case-study-section .text-container,
+.ufo--case-study-section ol,
+.ufo--case-study-section p,
+.ufo--case-study-section ul {
     font-family:var(--p1Font);
     font-size:var(--p1Size);
     font-weight:var(--p1Weight);
@@ -212,7 +218,8 @@ body {
     color:var(--p1Color)
 }
 
-.ufo--case-study-section .p2,.ufo--case-study-section p.body-p2 {
+.ufo--case-study-section .p2,
+.ufo--case-study-section p.body-p2 {
     font-family:var(--p2Font);
     font-size:var(--p2Size);
     font-weight:var(--p2Weight);
