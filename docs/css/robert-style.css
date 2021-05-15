@@ -588,7 +588,7 @@ nav {
 	banner-section
 ***********************************/
 .new-banner-bg {
-    background: url(sabrinaslater.github.io/docs/img/portfoliobackground.png);
+    background: url(/sabrinaslater.github.io/docs/img/portfoliobackground.png) !important;
 	background-position: center center;
 	background-size: cover;
 	position:relative;
@@ -598,7 +598,7 @@ nav {
 
 .banner-wrapper {
     background-position: center center;
-	background-image:url(sabrinaslater.github.io/docs/img/portfoliobackground.png);
+	background-image: url(/sabrinaslater.github.io/docs/img/portfoliobackground.png) !important;
     background-size: cover;
     position: relative;
 }
@@ -6435,3 +6435,4 @@ nav {
 
 
 
+    }
