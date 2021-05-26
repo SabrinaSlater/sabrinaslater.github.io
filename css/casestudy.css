@@ -78,3 +78,8 @@ p{
     display: flex;
     padding: 50px;
 }
+
+.card {
+    position: relative;
+    display: flex; 
+}
