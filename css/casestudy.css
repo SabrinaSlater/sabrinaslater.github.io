@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+ body {
+	font-family: 'Montserrant', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	overflow-x:hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Italiana', serif;
+	color: #25201c;
+	margin-top: 0px;
+	font-style: normal;
+	font-weight: 400;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+	color: inherit;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	color:#25201c;
+	line-height: 28px;
+}
+
+.jumbotron,
+.jumbotron-fluid {
+    background-image: url(/sabrinaslater.github.io/img/portfolio/marathon-4631286_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    height: calc(50vh - 10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.media, 
+.align-self-center, 
+.mr-3 {
+    height: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+.card-img-top {
+    height: auto;
+    padding: 15px 20px;
+}
+
+.media,
+.media-body,
+.mt-0 {
+    align-items: left;
+}
+
+.media,
+.align-self-center, 
+.mr-3 {
+    order: 40;
+}
+
+.content {
+    position: relative;
+    display: flex;
+    padding: 50px;
+}
