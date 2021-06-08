@@ -76,10 +76,5 @@ p{
 .content {
     position: relative;
     display: flex;
-    padding: 50px;
 }
 
-.card {
-    position: relative;
-    display: flex; 
-}
